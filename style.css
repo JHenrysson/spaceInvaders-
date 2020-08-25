@@ -1,3 +1,8 @@
+body{
+    background-image: url("night.jpg");
+}
+
+
 .grid{
     display: flex;
     flex-wrap: wrap;
@@ -27,4 +32,12 @@
 #title{
     margin: auto;
     display: table;
+    color: white;
+}
+#Welcome{
+    align-content: center;
+    margin: auto;
+    display: table;
+    color: white;
+   
 }
