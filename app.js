@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let alienInvadersTakenDown = []
     let result = 0
     let direction = 1
-    let invaderId
+    let invaderId2
 
     // define the alien invaders
     const alienInvaders = [

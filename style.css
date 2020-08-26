@@ -1,5 +1,6 @@
 body{
     background-image: url("night.jpg");
+
 }
 
 
@@ -18,9 +19,10 @@ body{
 }
 .shooter{
     background-color: blue;
+
 }
 .invader{
-    background-color: purple;
+    background-color: darkviolet;
     border-radius: 10px;
 }
 .boom{
@@ -33,6 +35,7 @@ body{
     margin: auto;
     display: table;
     color: white;
+    font-size: 30px;
 }
 #Welcome{
    padding-top: 10%;
@@ -40,5 +43,6 @@ body{
     margin: auto;
     display: table;
     color: white;
+    font-size: 25px;
 
 }
